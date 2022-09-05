@@ -10,13 +10,13 @@
 "app_id": "wx73def1d9b3e7fcf2",
 "app_secret": "7dd78b2bae981fb90a6557486d5e4db6",
 
-"template_id": "QpJxjlG6u5YIaS3dE61FNOjfuC2DWdE74C7kn6OKfxA",
+"template_id": "igDvoRgjSFE4GtkQnn6Zj0acbgh3eQE_QHJg7ND-_eY",
 "user_id": ["oZ9NB6ffs9zhdH_0TDnfe9IV_890"],
 #"user_id": ["请替换为自己的 微信号 01" , "请替换为自己的 微信号 02"],
 
 "C_ShengFen": "湖南",
 "C_ChengShi": "郴州",
-"S_XingZuo": "处女座",
+"S_XingZuo": "摩羯座",
 
 "S_Love": "2020-01-01",
 "birthday1": "2001-01-01",
