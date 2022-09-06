@@ -12,7 +12,7 @@
 
 "template_id": "eLHO8-SJuCKxFhz7XcdresNa8H6GuwDgx0NvGXKgXzw",
 "user_id": ["oZ9NB6e1VP-8es2Ms-fghd9JLplw"],
-#"user_id": ["请替换为自己的 微信号 01" , "请替换为自己的 微信号 02"],
+#"user_id": ["oZ9NB6ffs9zhdH_0TDnfe9IV_890 01" , "请替换为自己的 微信号 02"],
 
 "C_ShengFen": "湖南",
 "C_ChengShi": "郴州",
